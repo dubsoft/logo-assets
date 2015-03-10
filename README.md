@@ -22,4 +22,6 @@ This file goes over the various ways to use the different logo assets, typograph
 ## Logo
 ### Lock-Ups
 
-There are three lockups for the Dubsoft brand: the logo by itself, a vertical lockup, and a horizontal lockup. As only more mature brands are able to successfully use their logos by themselves (as a lot to do with marketing and name-recognition) it's recommended that 
+There are three lockups for the Dubsoft brand: the logo by itself, a vertical lockup, and a horizontal lockup. As only more mature brands are able to successfully use their logos by themselves (as a lot to do with marketing and name-recognition) it's recommended that the logo by itself only be used when there are other references to the company accompanying it (for example, the logo on one side of the business card, and the full logo or logotype on the other).
+
+![Dubsoft Logo Lockups](logo/black-and-white/lock-ups.jpg)
