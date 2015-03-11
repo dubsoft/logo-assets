@@ -31,7 +31,7 @@ There are three lockups for the Dubsoft brand: the logo by itself, a vertical lo
 
 **Black and White Logo, vertical lockup:** [EPS](logo/black-and-white/eps/logo-b-w-vertical.eps), [JPEG](logo/black-and-white/jpeg/logo-b-w-vertical.jpg) (white background), [PNG](logo/black-and-white/png/logo-b-w-vertical.png), [SVG](logo/black-and-white/svg/logo-b-w-vertical.svg)
 
-**Black and White Logo, horizontal lockup:** [EPS](logo/black-and-white/eps/logo-b-w-horizontal.eps), [JPEG](logo/black-and-white/eps/logo-b-w-horizontal.jpg) (white background), [PNG](logo/black-and-white/png/logo-b-w-horizontal.png), [SVG](logo/black-and-white/svg/logo-b-w-horizontal.svg)
+**Black and White Logo, horizontal lockup:** [EPS](logo/black-and-white/eps/logo-b-w-horizontal.eps), [JPEG](logo/black-and-white/jpeg/logo-b-w-horizontal.jpg) (white background), [PNG](logo/black-and-white/png/logo-b-w-horizontal.png), [SVG](logo/black-and-white/svg/logo-b-w-horizontal.svg)
 
 I recommend the black and white logo for places where you're uncertain of contrast coming out well/you don't have control over the print process.
 
