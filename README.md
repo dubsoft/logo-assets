@@ -1,13 +1,13 @@
 # Dubsoft Logo Assets
 This file goes over the various ways to use the different logo assets, typography, and color for the Dubsoft brand (including links to all the various assets). As a living style guide, if things change for the brand they should be updated here as well so that this document is always a guide to the brand as it currently exists.
 
-1. [Logo]()
-  - [Lock-ups]()
-  - [Black and White]()
-  - [Grayscale]()
-  - [Color]()
-  - [Animated]()
-  - [Dos and Don'ts]()
+1. [Logo](#logo)
+  - [Lock-ups](#lock-ups)
+  - [Black and White](#black-and-white)
+  - [Grayscale](#grayscale)
+  - [Color](#color)
+  - [Animated](#animated)
+  - [Dos and Don'ts](#dos-and-donts)
 
 2. [Typography]()
   - [Headings]()
