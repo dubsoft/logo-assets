@@ -27,7 +27,7 @@ There are three lockups for the Dubsoft brand: the logo by itself, a vertical lo
 ## Black and White Logo
 ![Dubsoft Logo Lockups](logo/black-and-white/lock-ups-b-w.jpg)
 
-**Black and White Logo:** [EPS](), [JPEG]() (white background), [PNG](), [SVG]()
+**Black and White Logo:** [EPS](logo/black-and-white/eps/logo-b-w.eps), [JPEG](logo/black-and-white/jpeg/logo-b-w.jpg) (white background), [PNG](logo/black-and-white/png/logo-b-w.png), [SVG](logo/black-and-white/png/logo-b-w.png)
 
 **Black and White Logo, vertical lockup:** [EPS](), [JPEG]() (white background), [PNG](), [SVG]()
 
